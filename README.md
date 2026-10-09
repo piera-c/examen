@@ -20,7 +20,7 @@ sudo apt update
 ## 2. Instalar el cockpit
 
 `
-![Intall cockpit](images/intallcockpit.png)
+![Intall cockpit](images/installcockpit.png)
 
 ## 3. Empezar el cockpit
 
