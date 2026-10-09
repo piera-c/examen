@@ -30,6 +30,7 @@ sudo apt update
 ## 4. Permitir ssh y ufw
 
 ![Firewall](images/ufwenable.png)
+![Firewall](images/ssh.png)
 
 
 ## 6. Abrirlo desde navegador
